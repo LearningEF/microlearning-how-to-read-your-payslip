@@ -1,0 +1,42 @@
+{
+  "version": "3.100.34725.0",
+  "course_id": "6lOqJBJ9HqM",
+  "title": "How-to_Read_Your_Payslip_01",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "How to read a payslip COPY"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6mkzqozhuxy",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5YorbAoJcPF",
+      "title": "Base Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6GXgh73Hc01",
+      "title": "Glossary",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5u0ay0jkT1G",
+      "title": "Glossary Placeholder",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1260,
+    "height": 1825
+  },
+  "stage": {
+    "width": 1240,
+    "height": 1754
+  }
+}
